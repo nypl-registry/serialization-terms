@@ -25,7 +25,8 @@
     "node-uuid": "^1.4.7",
     "nypl-registry-utils-database": "nypl-registry/utils-database",
     "nypl-registry-utils-lexicon": "nypl-registry/utils-lexicon",
-    "nypl-registry-utils-normalize": "nypl-registry/utils-normalize"
+    "nypl-registry-utils-normalize": "nypl-registry/utils-normalize",
+    "nypl-registry-utils-crier" : "nypl-registry/utils-crier"
   },
   "devDependencies": {
     "mocha": "^2.4.5",
